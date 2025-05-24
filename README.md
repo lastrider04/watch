@@ -42,5 +42,7 @@ Follow these steps to set up the application on your own web server (e.g., a cPa
 **2. Clone or Download the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/lastrider04/watch.git
+   cd watch
+
+Or download the ZIP and extract it to your web server's document root (e.g., public_html/your-app-folder/).
