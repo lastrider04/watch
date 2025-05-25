@@ -1,0 +1,25 @@
+# User-specific data and configurations
+/users/
+/watchlists/
+/config.json
+/app_config/api_keys.php
+
+# IDE and OS generated files
+.idea/
+.vscode/
+*.DS_Store
+*.suo
+*.user
+*.log
+Thumbs.db
+
+# PHP error logs that might be generated in the project root
+error_log
+php_error.log
+
+# Specific screenshots in the images directory
+images/screenshot001.png
+images/screenshot002.png
+
+# Ignore ALL files starting with "screenshot" in the images/ directory
+images/screenshot*.png
