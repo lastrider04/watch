@@ -152,4 +152,4 @@ Pull requests are welcome. For major changes or new features, please open an iss
 
 When contributing, please try to maintain the existing coding style and ensure that any new features are also documented.
 ## License
-This project is licensed under the MIT License - see the [LICENSE](license) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
